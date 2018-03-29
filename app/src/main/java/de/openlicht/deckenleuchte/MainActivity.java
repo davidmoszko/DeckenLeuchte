@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        //Home Steuerungsbutton
+        //Home Steuerungsbuttons
 
         Button HomeControl = findViewById(R.id.HomeControl);
 
