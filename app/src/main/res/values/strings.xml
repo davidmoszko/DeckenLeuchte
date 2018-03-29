@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DeckenLeuchte</string>
+    <string name="PressAlarm">Circadian Alarm Clock</string>
+    <string name="btnONOFF">Bluetooth ON/OFF</string>
+    <string name="PressLamp">Circadian Lamp</string>
+    <string name="TextField1">Welcome to the Circadian Ceiling Lamp\nBachelor Thesis by \nDavid Moszko\nwww.openlicht.de</string>
+    <string name="textCheckBT">Bluetooth Status:\n</string>
+    <string name="title_activity_press_alarm">PressAlarm</string>
+    <string name="title_activity_press_lamp">PressLamp</string>
+    <string name="title_activity_press_bluetooth">PressBluetooth</string>
+    <string name="title_activity_home_control">HomeControl</string>
+</resources>
